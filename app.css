@@ -1,0 +1,17 @@
+@font-face {
+  font-family: custom;
+  src: url("/assets/font/estedad.woff2");
+}
+body {
+  background-color: #131d1f;
+  color: #dcdfdf;
+  font-size: 0.96rem;
+}
+
+.c-ac {
+  color: #f4bd38;
+}
+
+.bc-d2 {
+  background-color: #1c2628;
+}
